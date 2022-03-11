@@ -1,6 +1,5 @@
 ## About Jacob
 
-
 ### Summary
 
 Jacob Franz is a skilled associate developer whose ability to collaborate with others,
@@ -10,35 +9,25 @@ Technological University. Jacob primarily used Java throughout college and extre
 comfortable writing in it. He has extensive experience both leading and working in teams from
 both Nashville Event Lighting as a crew chief and in Boy Scouts where he obtained the rank of
 Eagle Scout. Jacob enjoys the problem solving and cooperative nature of programming.
+
 ### Resume
 
-[Resume](/pdf/polyglitch_resume.pdf)
+[Resume](/assets/pdf/polyglitch_resume.pdf)
+
+---
 
 ## Portfolio
 
-[Set-Cube-Builder](https://github.com/polyglitch/set-cube-builder)
 <img src="images/set_cube_builder_ui.png"/>
+###[Set-Cube-Builder](https://github.com/polyglitch/set-cube-builder)
 
+The set cube builder is a tool used to generate a list of Magic the Gathering cards to purchase. It pulls data from scryfall and reformats it into something that can be put into most if not all online retailers. Here is an [example](/assets/other/cards.txt) output from the program.
 
+###[AI_Genetic_Algorithm](https://github.com/polyglitch/AI_Genetic_Algorithm)
 
-
-[AI_Genetic_Algorithm](https://github.com/polyglitch/AI_Genetic_Algorithm)
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+This is one of my projects from college. The traveling salesman problem rapidly becomes too large to brute force a perfect solution. Instead of brute forcing the problem I used a genetic algorithm to find a good solution.
 
 ---
 
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
