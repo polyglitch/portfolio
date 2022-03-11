@@ -27,7 +27,7 @@ Software: Eclipse, IntelliJ, VS Code, Git, GitHub, Cmder, PGAdmin, BASH, Vim
 ### [Set-Cube-Builder](https://github.com/polyglitch/set-cube-builder)
 The set cube builder is a tool written in Java that is used to generate a list of Magic the Gathering cards to purchase. It pulls data from scryfall and reformats it into something that can be put into most if not all online retailers. Here is an [example](/assets/other/cards.txt) output from the program.
 
-<img src="images/set_cube_builder_ui.png"/>
+<img src="/assets/images/set_cube_builder_ui.png"/>
 
 
 ### [AI_Genetic_Algorithm](https://github.com/polyglitch/AI_Genetic_Algorithm)
