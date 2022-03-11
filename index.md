@@ -1,4 +1,4 @@
-## About Jacob
+## About
 
 ### Summary
 
@@ -14,12 +14,18 @@ Eagle Scout. Jacob enjoys the problem solving and cooperative nature of programm
 
 [Resume](/assets/pdf/polyglitch_resume.pdf)
 
+### Proficiencies
+
+Languages: Java, JavaScript, HTML5, CSS3, SQL, Spring, Spring Boot, JDBC, Jackson, JPA, JQuery, Node, Webpack, Babel, Maven, NPM, React, Redux, C++, Python
+
+Software: Eclipse, IntelliJ, VS Code, Git, GitHub, Cmder, PGAdmin, BASH, Vim
+
 ---
 
 ## Portfolio
 
 ### [Set-Cube-Builder](https://github.com/polyglitch/set-cube-builder)
-The set cube builder is a tool used to generate a list of Magic the Gathering cards to purchase. It pulls data from scryfall and reformats it into something that can be put into most if not all online retailers. Here is an [example](/assets/other/cards.txt) output from the program.
+The set cube builder is a tool written in Java that is used to generate a list of Magic the Gathering cards to purchase. It pulls data from scryfall and reformats it into something that can be put into most if not all online retailers. Here is an [example](/assets/other/cards.txt) output from the program.
 
 <img src="images/set_cube_builder_ui.png"/>
 
